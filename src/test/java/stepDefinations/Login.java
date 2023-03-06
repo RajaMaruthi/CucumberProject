@@ -21,7 +21,7 @@ public class Login
 		WebDriverManager.chromedriver().setup();
 		driver=new ChromeDriver();
 		driver.manage().window().maximize();
-		System.out.println("Browser launched");
+		System.out.println("Browser launched....");
 		
 		
 	}
